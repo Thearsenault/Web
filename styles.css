@@ -1,0 +1,126 @@
+
+.header {
+  background-color: #424242;
+  box-shadow: 0px 10px 5px #434343;
+  top: 0;
+}
+
+.header-text {
+  margin: 0;
+  font-size: 4rem;
+  font-weight: 400;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.nav {
+  float: left;
+  background-color: #D8D8D8;
+  width: 18%;
+  font-size: 2rem;
+  box-shadow: 0px 10px 5px #424242;
+  margin: 0;
+}
+.main-text {
+  font-size: 1rem;
+  text-align: center;
+  width: 70%;
+  background-color: #F2F2F2;
+  box-shadow: 0px 10px 5px #424242;
+  margin: 0;
+  margin-right: auto;
+ margin-left: auto;
+
+}
+.social-media {
+  width: 15%;
+  float: right;
+  background-color: #D8D8D8;
+  margin: 0;
+  box-shadow: 0px 10px 5px #424242
+}
+.recent-video {
+  text-align: center;
+}
+.nav {
+  height: 100%;
+  width: 12.5%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #303030;
+  overflow-x: hidden;
+  padding-top: 20px;
+  box-shadow: 10px 10px 5px #404040;
+}
+.nav a {
+  padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #818181;
+    display: block;
+}
+.nav a:hover {
+  color: #f1f1f1
+}
+.video-collection {
+    text-align: center;
+    width: 70%;
+    background-color: #F2F2F2;
+    box-shadow: 0px 10px 5px #424242;
+    margin: 0;
+    margin-right: auto;
+   margin-left: auto;
+}
+
+.icon-bar {
+  position: fixed;
+  top: 10%;
+  right:0;
+}
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 20px;
+}
+.icon-bar a:hover {
+  background-color: #000;
+}
+.facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.twitter {
+  background: #55ACEE;
+  color: white;
+}
+.youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.video {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 250px
+}
+.desc {
+  padding: 5px;
+  text-align: center;
+}
+.coming-soon {
+  font-size: 1rem;
+  text-align: center;
+  width: 70%;
+  background-color: #F2F2F2;
+  box-shadow: 0px 10px 5px #424242;
+  margin: 0;
+  margin-right: auto;
+ margin-left: auto;
+}
