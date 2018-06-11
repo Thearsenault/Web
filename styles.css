@@ -15,10 +15,8 @@
 
 .nav {
   float: left;
-  background-color: #D8D8D8;
   width: 18%;
   font-size: 2rem;
-  box-shadow: 0px 10px 5px #424242;
   margin: 0;
 }
 .main-text {
@@ -95,20 +93,19 @@ text-align: right;
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #303030;
   overflow-x: hidden;
   padding-top: 20px;
-  box-shadow: 10px 10px 5px #404040;
+  margin-top: 23%
 }
 .nav a {
   padding: 6px 8px 6px 16px;
     text-decoration: none;
     font-size: 1.5rem;
-    color: #818181;
+    color: black;
     display: block;
 }
 .nav a:hover {
-  color: #f1f1f1
+  color: red  
 }
 .video-collection {
     text-align: center;
